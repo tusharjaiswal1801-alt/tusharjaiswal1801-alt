@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**tusharjaiswal1801-alt/tusharjaiswal1801-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 Currently learning and improving my programming skills<br>I enjoy coding and solving problems<br>Passionate about learning new technologies and building logical solutions<br>
